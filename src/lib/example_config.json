@@ -1,0 +1,6 @@
+{
+    "modem_ip": "[MODEM IP ADDRESS HERE]",
+    "password_hash": "[PASSWORD HASH HERE]",
+    "check_interval": 300,
+    "celltower_id": "[PREFERRED CELLTOWER ID HERE]"
+}

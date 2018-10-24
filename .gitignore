@@ -1,2 +1,5 @@
 __pycache__
 config.json
+*_OLD.*
+dev
+config_experimental.json

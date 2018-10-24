@@ -1,0 +1,10 @@
+
+{
+    "modem_ip": "[MODEM_IP_HERE]",
+    "preferred_celltower": "[PREFERRED_CELLTOWER_ID_HERE]",
+    "password_hash": "[PASSWORD_HASH_HERE]",
+    "debug": true,
+    "auto_reboot": false,
+    "check_interval": 900,
+    "max_retries": 3
+}
